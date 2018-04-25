@@ -293,3 +293,4 @@ separation of concerns and write modular, well-organized code.
 - [MDN: AJAX](https://developer.mozilla.org/en-US/docs/AJAX)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-turning-api-responses-into-views-with-handlebars'>Turning API Responses Into Views </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Turning API Responses into Views with Handlebars</p>
